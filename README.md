@@ -1,6 +1,7 @@
 # KERNEL-METHODS
 Kaggle Data Challenge project for course: Machine learning with kernel methods-MASH,MVA(J-P Vert,M Arbel)
 
+Graph classification Kaggle Challenge :https://www.kaggle.com/competitions/data-challenge-kernel-methods-2022-2023
 
 
 
